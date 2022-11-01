@@ -16,7 +16,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, "public", "assets"),
     filename: `${baseFilename}.js`,
-    publicPath: argv.mode === "production" ? "/blog" : "/",
+    publicPath: "/blog",
   },
 
   optimization: {
@@ -55,7 +55,9 @@ module.exports = {
   },
 
   plugins: [
-    new WebpackManifestPlugin({ publicPath: "/assets/" }),
+    new WebpackManifestPlugin({
+      publicPath: isDev ? "/assets/" : "/blog/assets/",
+    }),
     new MiniCssExtractPlugin({ filename: `${baseFilename}.css` }),
   ],
 };
