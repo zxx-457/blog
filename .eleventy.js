@@ -20,6 +20,7 @@ const manifest = isDev
   ? {
       'main.js': '/assets/main.js',
       'main.css': '/assets/main.css',
+      'baseurl': "https://zxx-457.github.io/blog/"
     }
   : JSON.parse(fs.readFileSync(manifestPath, { encoding: 'utf8' }));
 
@@ -50,6 +51,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addShortcode('bundledjs', function () {
     return manifest['main.js']
       ? `<script src="${manifest['main.js']}"></script>`
+      : '';
+  });
+
+  eleventyConfig.addShortcode('gh-pages-urlfix', function () {
+    return manifest['baseurl']
+      ? `<base href="${manifest['baseurl']}">`
       : '';
   });
 
