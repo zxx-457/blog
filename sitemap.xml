@@ -3,7 +3,7 @@
   
     
       <url>
-        <loc>/blog/posts/a-simple-post/</loc>
+        <loc>/posts/a-simple-post/</loc>
         
           <lastmod>2020-10-18T00:00:00.000Z</lastmod>
         
@@ -14,7 +14,7 @@
   
     
       <url>
-        <loc>/blog/posts/another-simple-post/</loc>
+        <loc>/posts/another-simple-post/</loc>
         
           <lastmod>2020-10-22T00:00:00.000Z</lastmod>
         
@@ -25,7 +25,7 @@
   
     
       <url>
-        <loc>/blog/posts/even-yet-another-simple-post/</loc>
+        <loc>/posts/even-yet-another-simple-post/</loc>
         
           <lastmod>2020-10-25T00:00:00.000Z</lastmod>
         
@@ -36,7 +36,7 @@
   
     
       <url>
-        <loc>/blog/posts/yet-another-simple-post/</loc>
+        <loc>/posts/yet-another-simple-post/</loc>
         
           <lastmod>2020-10-29T00:00:00.000Z</lastmod>
         
@@ -47,7 +47,7 @@
   
     
       <url>
-        <loc>/blog/posts/a-post-with-code-samples/</loc>
+        <loc>/posts/a-post-with-code-samples/</loc>
         
           <lastmod>2021-02-12T00:00:00.000Z</lastmod>
         
@@ -58,7 +58,7 @@
   
     
       <url>
-        <loc>/blog/posts/another-post-with-code-samples/</loc>
+        <loc>/posts/another-post-with-code-samples/</loc>
         
           <lastmod>2020-11-19T00:00:00.000Z</lastmod>
         
@@ -69,7 +69,7 @@
   
     
       <url>
-        <loc>/blog/posts/even-yet-another-post-with-code-samples/</loc>
+        <loc>/posts/even-yet-another-post-with-code-samples/</loc>
         
           <lastmod>2020-11-23T00:00:00.000Z</lastmod>
         
@@ -80,7 +80,7 @@
   
     
       <url>
-        <loc>/blog/posts/yet-another-post-with-code-samples/</loc>
+        <loc>/posts/yet-another-post-with-code-samples/</loc>
         
           <lastmod>2020-11-26T00:00:00.000Z</lastmod>
         
@@ -91,7 +91,7 @@
   
     
       <url>
-        <loc>/blog/posts/a-post-with-rich-media/</loc>
+        <loc>/posts/a-post-with-rich-media/</loc>
         
           <lastmod>2020-12-20T00:00:00.000Z</lastmod>
         
@@ -102,7 +102,7 @@
   
     
       <url>
-        <loc>/blog/posts/another-post-with-rich-media/</loc>
+        <loc>/posts/another-post-with-rich-media/</loc>
         
           <lastmod>2020-12-21T00:00:00.000Z</lastmod>
         
@@ -113,7 +113,7 @@
   
     
       <url>
-        <loc>/blog/posts/even-yet-another-post-with-rich-media/</loc>
+        <loc>/posts/even-yet-another-post-with-rich-media/</loc>
         
           <lastmod>2020-12-24T00:00:00.000Z</lastmod>
         
@@ -124,7 +124,7 @@
   
     
       <url>
-        <loc>/blog/posts/yet-another-post-with-rich-media/</loc>
+        <loc>/posts/yet-another-post-with-rich-media/</loc>
         
           <lastmod>2020-12-28T00:00:00.000Z</lastmod>
         
@@ -135,7 +135,7 @@
   
     
       <url>
-        <loc>/blog/posts/a-post-with-mermaid-charts/</loc>
+        <loc>/posts/a-post-with-mermaid-charts/</loc>
         
           <lastmod>2021-03-22T00:00:00.000Z</lastmod>
         
@@ -146,7 +146,7 @@
   
     
       <url>
-        <loc>/blog/posts/a-post-containing-code-block-with-very-long-lines-of-code/</loc>
+        <loc>/posts/a-post-containing-code-block-with-very-long-lines-of-code/</loc>
         
           <lastmod>2021-06-28T00:00:00.000Z</lastmod>
         
@@ -157,7 +157,7 @@
   
     
       <url>
-        <loc>/blog/posts/first-blog/</loc>
+        <loc>/posts/first-blog/</loc>
         
           <lastmod>2022-10-31T16:00:00.000Z</lastmod>
         
@@ -168,20 +168,9 @@
   
     
       <url>
-        <loc>/blog/about/</loc>
+        <loc>/about/</loc>
         
-          <lastmod>2022-11-01T10:51:23.892Z</lastmod>
-        
-        
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>/blog/blog/</loc>
-        
-          <lastmod>2022-11-01T10:51:23.892Z</lastmod>
+          <lastmod>2022-11-01T11:15:29.688Z</lastmod>
         
         
         
@@ -192,7 +181,7 @@
       <url>
         <loc>/blog/</loc>
         
-          <lastmod>2022-11-01T10:51:23.892Z</lastmod>
+          <lastmod>2022-11-01T11:15:29.688Z</lastmod>
         
         
         
@@ -201,20 +190,9 @@
   
     
       <url>
-        <loc>/blog/robots.txt</loc>
+        <loc>/</loc>
         
-          <lastmod>2022-11-01T10:51:23.896Z</lastmod>
-        
-        
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>/blog/tags/first time/</loc>
-        
-          <lastmod>2022-11-01T10:51:23.896Z</lastmod>
+          <lastmod>2022-11-01T11:15:29.692Z</lastmod>
         
         
         
@@ -223,20 +201,9 @@
   
     
       <url>
-        <loc>/blog/tags/demo-content/</loc>
+        <loc>/robots.txt</loc>
         
-          <lastmod>2022-11-01T10:51:23.896Z</lastmod>
-        
-        
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>/blog/tags/simple-post/</loc>
-        
-          <lastmod>2022-11-01T10:51:23.896Z</lastmod>
+          <lastmod>2022-11-01T11:15:29.692Z</lastmod>
         
         
         
@@ -245,20 +212,9 @@
   
     
       <url>
-        <loc>/blog/tags/code/</loc>
+        <loc>/tags/first time/</loc>
         
-          <lastmod>2022-11-01T10:51:23.896Z</lastmod>
-        
-        
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>/blog/tags/mermaid/</loc>
-        
-          <lastmod>2022-11-01T10:51:23.896Z</lastmod>
+          <lastmod>2022-11-01T11:15:29.692Z</lastmod>
         
         
         
@@ -267,9 +223,53 @@
   
     
       <url>
-        <loc>/blog/tags/media/</loc>
+        <loc>/tags/demo-content/</loc>
         
-          <lastmod>2022-11-01T10:51:23.896Z</lastmod>
+          <lastmod>2022-11-01T11:15:29.692Z</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>/tags/simple-post/</loc>
+        
+          <lastmod>2022-11-01T11:15:29.692Z</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>/tags/code/</loc>
+        
+          <lastmod>2022-11-01T11:15:29.692Z</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>/tags/mermaid/</loc>
+        
+          <lastmod>2022-11-01T11:15:29.692Z</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>/tags/media/</loc>
+        
+          <lastmod>2022-11-01T11:15:29.692Z</lastmod>
         
         
         
