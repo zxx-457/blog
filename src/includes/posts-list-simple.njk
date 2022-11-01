@@ -1,0 +1,7 @@
+<ul class="post-list">
+  {% for post in postslist | reverse %}
+    <li class="post-list__item__simple">
+      {{post.data.title}}
+    </li>
+  {% endfor %}
+</ul>
